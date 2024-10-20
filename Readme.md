@@ -27,9 +27,6 @@ To deploy the front-end application :
 
 -3.assets (folder)
 
-S3 bucket : https://us-east-1.console.aws.amazon.com/s3/buckets/blockbuster-battle-app?region=us-east-1&bucketType=general&tab=objects&state=hashArgs%23
-
-Cloudfront distrobution:https://us-east-1.console.aws.amazon.com/cloudfront/v4/home?region=us-east-1#/distributions/E1Y8LY8Q3VU6SO
 
 The live web application can be accessed on:
 https://blockbuster.odin.nz
@@ -53,6 +50,3 @@ To deploy the back-end application :
 1. Stop the Ec2 Instance
 2. Stop the RDS database
 
-Ec2: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#InstanceDetails:instanceId=i-0bee878d5c040547d
-
-Database: https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1#databases
