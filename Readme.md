@@ -8,6 +8,10 @@ The front-end web application is a web based game where players must sign-up and
 
 The game is a higher/lower based game where the player has a choice between two movies whith one movie showing its rating and another one that is hidden. If the user selects the moveie with the higher score then the player gets a point. The game goes on for 10 rounds
 
+### Demo
+1. Clone Repo `git clone git@github.com:O-LavenderAshburn/BlockbusterBattle.git'
+2. `npm run dev`
+
 ### Deployment
 
 To deploy the front-end application :
