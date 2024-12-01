@@ -10,7 +10,8 @@ The game is a higher/lower based game where the player has a choice between two 
 
 ### Demo
 1. Clone Repo `git clone git@github.com:O-LavenderAshburn/BlockbusterBattle.git'
-2. `npm run dev`
+2. `npm install`
+3. `npm run dev`
 
 ### Deployment
 
