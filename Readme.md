@@ -1,5 +1,5 @@
 
-# Instructions for university team and submisstioon. Instructions may be outdated  
+# Instructions for university team and submission. Instructions may be outdated  
 . # Blockbuster Battle COMPX 527 Group Project
 
 This implementation of the Blockbuster Battle online game is the proposed solution and explanation of the implemented solution to the COMPX 527 Secure Cloud Applications cloud based application assignment.
